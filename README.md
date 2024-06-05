@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0200-number-of-islands) |
 # Depth-First Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0200-number-of-islands) |
 # Hash Table
 |  |
@@ -40,3 +42,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
+# String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
+# Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
