@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 # Simulation
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
