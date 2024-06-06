@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -97,3 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
