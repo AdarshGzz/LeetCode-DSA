@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # Backtracking
 |  |
 | ------- |
@@ -91,3 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
+# Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
