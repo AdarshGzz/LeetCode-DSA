@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 # Simulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 # Merge Sort
 |  |
 | ------- |
@@ -110,8 +112,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0812-rotate-string) |
 # Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+# Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+# Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
