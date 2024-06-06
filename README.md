@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1078-remove-outermost-parentheses](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
 # Backtracking
 |  |
 | ------- |
@@ -81,3 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
