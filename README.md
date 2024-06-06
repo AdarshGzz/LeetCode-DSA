@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 # Simulation
 |  |
@@ -108,4 +109,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0812-rotate-string) |
+# Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
