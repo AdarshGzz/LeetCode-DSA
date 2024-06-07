@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
@@ -133,3 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
