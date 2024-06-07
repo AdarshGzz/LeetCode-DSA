@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
