@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 # Depth-First Search
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 # Merge Sort
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 # Bucket Sort
@@ -138,3 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
