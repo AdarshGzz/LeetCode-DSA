@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0079-word-search) |
+| [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 # Depth-First Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # String
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 # Greedy
 |  |
 | ------- |
