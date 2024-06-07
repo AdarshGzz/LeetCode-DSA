@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
@@ -106,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # Trie
 |  |
