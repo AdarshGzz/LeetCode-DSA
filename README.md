@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
 # Union Find
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
 # Merge Sort
 |  |
 | ------- |
@@ -224,7 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
 # Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0207-course-schedule) |
+# Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
