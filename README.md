@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 # Linked List
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 # Tree
 |  |
 | ------- |
@@ -245,3 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0278-first-bad-version) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
