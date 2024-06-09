@@ -6,14 +6,14 @@ public:
         int sn = i[0];
         int tn = i[1];
         int t = i[2];
-        graph[sn].emplace_back(tn, t);
+        graph[sn].push_back({tn, t});
     }
 
     vector<int> distance(n + 1, INT_MAX);
     distance[k] = 0;
 
     priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> minHeap;
-    minHeap.emplace(0, k);
+    minHeap.push({0, k});
 
     while (!minHeap.empty()) {
         int cost = minHeap.top().first;
@@ -29,7 +29,7 @@ public:
             int t = g.second;
             if (distance[tn] > cost + t) {
                 distance[tn] = cost + t;
-                minHeap.emplace(distance[tn], tn);
+                minHeap.push({distance[tn], tn});
             }
         }
     }
