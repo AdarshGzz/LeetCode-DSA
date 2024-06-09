@@ -1,44 +1,40 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        unordered_map<int ,vector<pair<int,int>>> graph;
-        for(auto i:times){
-            int u = i[0];
-            int v = i[1];
-            int w = i[2];
-            graph[u].push_back({v,w});
+        unordered_map<int, vector<pair<int, int>>> graph;
+    for (auto& i : times) {
+        int sn = i[0];
+        int tn = i[1];
+        int t = i[2];
+        graph[sn].emplace_back(tn, t);
+    }
+
+    vector<int> distance(n + 1, INT_MAX);
+    distance[k] = 0;
+
+    priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> minHeap;
+    minHeap.emplace(0, k);
+
+    while (!minHeap.empty()) {
+        int cost = minHeap.top().first;
+        int currNode = minHeap.top().second;
+        minHeap.pop();
+
+        if (cost > distance[currNode]) {
+            continue;
         }
 
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> minHeap;
-        minHeap.push({0,k});
-        vector<int>dist(n+1,INT_MAX);
-        dist[k] = 0;
-
-        while(!minHeap.empty()){
-            auto [curr_dist,u] = minHeap.top();
-            minHeap.pop();
-
-            if(curr_dist>dist[u]){
-                continue;
+        for (auto& g : graph[currNode]) {
+            int tn = g.first;
+            int t = g.second;
+            if (distance[tn] > cost + t) {
+                distance[tn] = cost + t;
+                minHeap.emplace(distance[tn], tn);
             }
-
-            for(auto[v,w]: graph[u]){
-                int dst = curr_dist + w;
-                if(dst<dist[v]){
-                    dist[v] = dst;
-                    minHeap.push({dst,v});
-                }
-            }
-
         }
+    }
 
-        int maxDist = 0;
-        for(int i= 1;i<=n;i++){
-            if(dist[i]==INT_MAX){
-                return -1;
-            }
-            maxDist = max(maxDist,dist[i]);
-        }
-        return maxDist;
+    int maxDist = *max_element(distance.begin() + 1, distance.end());
+    return maxDist == INT_MAX ? -1 : maxDist;
     }
 };
