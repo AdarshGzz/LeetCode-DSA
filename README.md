@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
 # Graph
 |  |
@@ -240,3 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0278-first-bad-version) |
