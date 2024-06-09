@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 # Linked List
@@ -251,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
