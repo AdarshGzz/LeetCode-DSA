@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
 # Depth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
 # Graph
 |  |
 | ------- |
