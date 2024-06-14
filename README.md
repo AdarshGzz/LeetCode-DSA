@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Depth-First Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Bucket Sort
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Bit Manipulation
 |  |
 | ------- |
