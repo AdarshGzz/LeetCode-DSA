@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
+| [0633-sum-of-square-numbers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # String
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 # Greedy
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0278-first-bad-version) |
+| [0633-sum-of-square-numbers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
 # Graph
 |  |
