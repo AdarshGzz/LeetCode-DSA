@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Depth-First Search
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Bucket Sort
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 # Graph
 |  |
 | ------- |
