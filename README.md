@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Merge Sort
 |  |
 | ------- |
@@ -286,3 +289,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
