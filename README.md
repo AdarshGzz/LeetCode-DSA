@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Simulation
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Dynamic Programming
 |  |
