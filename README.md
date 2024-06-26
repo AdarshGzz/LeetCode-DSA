@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
+| [1285-balance-a-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1675-magnetic-force-between-two-balls) |
 # Graph
