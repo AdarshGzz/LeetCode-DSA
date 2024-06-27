@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/0744-network-delay-time) |
+| [1916-find-center-of-star-graph](https://github.com/AdarshGzz/LeetCode-DSA/tree/master/1916-find-center-of-star-graph) |
 # Topological Sort
 |  |
 | ------- |
